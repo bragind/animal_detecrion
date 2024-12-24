@@ -10,10 +10,14 @@
 
 Процент правильных и неправильных предсказаний
 ![image](https://github.com/user-attachments/assets/bbac5560-4747-4fb3-a4b7-9095c0d832b1)
+
 Версии зависимостей:
 Python 3.9.7
+
 NumPy 2.0.2
+
 Pandas 2.2.3
+
 TensorFlow 2.18.0
 
 
